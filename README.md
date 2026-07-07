@@ -32,4 +32,4 @@ React • JavaScript • TypeScript • Python • Flask • Firebase • SQL �
 
 ## 🌎 What I Like Building
 
-I enjoy creating projects that sit between technology and human experiences — tools that make information easier to understand, help people discover opportunities, or turn ideas into something people can actually use.
+I enjoy creating projects that sit between technology and human experiences, tools that make information easier to understand, help people discover opportunities, or turn ideas into something people can actually use.
