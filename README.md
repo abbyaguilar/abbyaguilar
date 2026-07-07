@@ -11,6 +11,11 @@ A real-time local discovery platform designed to help small businesses, pop-up v
 
 Built with React, Firebase, Firestore, and Google Maps.
 
+### 🌿 Sprout Jourmind
+A mindfulness journal project created to help people build reflection habits and personal growth practices.
+
+Built as a real-world product experience with React and Firebase.
+
 ### 🌱 DecideToLive
 A research-informed longevity assessment platform designed to help users reflect on lifestyle habits and wellness factors through an interactive experience.
 
@@ -20,11 +25,6 @@ Built with React, Flask, Python, and SQLite.
 A fun machine learning and computer vision project exploring facial similarity matching through webcam input.
 
 Built with Python, Flask, and face recognition technologies.
-
-### 🌿 Sprout Jourmind
-A mindfulness journal project created to help people build reflection habits and personal growth practices.
-
-Built as a real-world product experience with React and Firebase.
 
 ## 🛠️ Technologies I Work With
 
