@@ -6,12 +6,6 @@ Most of what I learn comes from building. I tend to start with a real problem, q
 
 ## 🚀 Featured Projects
 
-### 🤖 NoAdvice.trade
-
-An educational market research and paper-trading platform with an agentic trading layer under development. The system combines market scanning, simulated trading, authenticated accounts, portfolio state, and deployment infrastructure.
-
-React • TypeScript • FastAPI • PostgreSQL • Supabase • Oracle Cloud • Nginx
-
 ### 🗺️ Vendor Map
 
 A local discovery platform for finding small businesses, pop-up vendors, and independent sellers, including live vendor visibility and authenticated vendor management.
